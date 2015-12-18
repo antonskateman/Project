@@ -1,0 +1,23 @@
+#container {
+    margin: 0 auto;
+    background: #fafafa;
+    width: 1000px;
+}
+.block1 {
+    margin: 0 auto;
+    background: #fa1516;
+    width: 1000px;
+    height: 100px;
+}
+.block2 {
+    margin: 0 auto;
+    background: #fae84b;
+    width: 1000px;
+    height: 200px;
+}
+.block3 {
+    margin: 0 auto;
+    background: #fa3ea4;
+    width: 1000px;
+    height: 300px;
+}
