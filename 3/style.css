@@ -1,0 +1,35 @@
+#container {
+    margin: 0 auto;
+    background: #fafafa;
+    width: 1000px;
+}
+.block1 {
+    width: 30%;
+    height: 300px;
+    background: #160cfa;
+}
+.block2 {
+    width:70%;
+    height: 500px;
+    background: #fa43de;
+    float: right;
+    margin-top: -300px;
+}
+.block3 {
+    width:1000px;
+    height: 100px;
+    background-color: #29faf2;
+    float: left;
+}
+.block4 {
+    width: 50%;
+    height: 300px;
+    background: #facf28;
+    float: right;
+}
+.block5 {
+    width: 50%;
+    height: 300px;
+    background: #00fa07;
+    float: right;
+}
