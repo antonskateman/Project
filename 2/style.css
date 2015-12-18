@@ -1,0 +1,20 @@
+#container {
+    margin: 0 auto;
+    background: #fafafa;
+    width: 1000px;
+}
+.block1 {
+    height: 100px;
+    background: #2188fa;
+}
+.block2 {
+    width: 50%;
+    background: #faec30;
+    height: 300px;
+    float: right;
+}
+.block3 {
+    width: 50%;
+    background: #81fa52;
+    height: 300px;
+}
