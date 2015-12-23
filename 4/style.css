@@ -1,0 +1,14 @@
+#container {
+    margin: 0 auto;
+    background: #fafafa;
+    width: 1000px;
+}
+.block1 {
+    background: #11fa06;
+    width: 800px;
+    height: 100px;
+
+}
+.block2 {
+
+}
