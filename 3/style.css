@@ -5,7 +5,7 @@
 }
 .block1 {
     width: 30%;
-    height: 300px;
+    height: 400px;
     background: #160cfa;
 }
 .block2 {
@@ -13,7 +13,7 @@
     height: 400px;
     background: #fa43de;
     float: right;
-    margin-top: -300px;
+    margin-top: -400px;
 }
 .block3 {
     width:1000px;
