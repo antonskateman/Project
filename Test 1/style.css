@@ -1,0 +1,15 @@
+body{
+    background: #2D3844;
+}
+#container {
+    margin-top: 11px;
+    width: 1440px;
+
+}
+.header {
+    height: 165px;
+    background: #222A33;
+    color: #FFFFFF;
+    font-size: xx-large;
+
+}
