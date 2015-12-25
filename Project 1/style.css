@@ -1,20 +1,13 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic);
-
 * {
     margin: 0;
     padding: 0;
 }
-
-
 
 .container {
     width: 850px;
     margin: 0 auto;
     position: relative;
 }
-
-
-
 
 body {
     /*background-color: #303b4b;*/
@@ -37,7 +30,6 @@ body {
     position: absolute;
     top: 30px;
     right: 0;
-
 }
 
 .block1 .menu li {
@@ -72,7 +64,6 @@ body {
     margin-right: 10px;
     border-radius: 10px;
     margin-bottom: 77px;
-
 }
 h1 {
     font-family:Verdana, Arial, Helvetica, sans-serif;
@@ -83,7 +74,7 @@ h1 {
 }
 p{
     font-family:Verdana, Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: x-small;
     color: #D3D0C4;
     padding-left: 75px;
 }
@@ -107,4 +98,9 @@ h4 {
     font-family:Verdana, Arial, Helvetica, sans-serif;
     font-size: x-small;
     padding-left: 21px;
+}
+img {
+    margin-bottom: -40px;
+    padding-left: 21px;
+    padding-top: 5px;
 }
