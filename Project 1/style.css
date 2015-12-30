@@ -104,13 +104,22 @@ img {
     padding-left: 21px;
     padding-top: 5px;
 }
+
+#container2 {
+    margin: 0 auto;
+    position: relative;
+    width: 8px;
+}
 .block2 {
-    color: #fff;
     background: #353F4A;
     float: inherit;
     height: 2px;
     font-size: small;
-
+}
+header {
+    color: #F4EFE1;
 }
 h5 {
+    color: #BBBAB3;
+    font-size: x-small;
 }
