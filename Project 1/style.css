@@ -65,6 +65,9 @@ body {
     border-radius: 10px;
     margin-bottom: 77px;
 }
+.block3 {
+
+}
 h1 {
     font-family:Verdana, Arial, Helvetica, sans-serif;
     font-size: large;
@@ -117,14 +120,15 @@ img {
     position: absolute;
     padding-left: 575px;
     padding-top: 30px;
+
 }
 header {
     color: #F4EFE1;
+    padding-left: 25px;
 }
 h5 {
     color: #BBBAB3;
     font-size: x-small;
     padding-left: 110px;
-    padding-bottom: 10px;
 
 }
